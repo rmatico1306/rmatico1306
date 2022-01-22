@@ -30,7 +30,7 @@ TECNOLOGÍAS: VBA EN EXCEL.
 ![image](https://user-images.githubusercontent.com/85043762/150619450-d6d7d40f-cb95-4dcd-9d23-21f57f2074b5.png)
 ![image](https://user-images.githubusercontent.com/85043762/150618766-d34bde15-456e-4c0b-a85f-7062a534a02c.png)
 ![image](https://user-images.githubusercontent.com/85043762/150618932-f7a72b96-d583-41c6-9106-b70530eba3d9.png)
-![image](https://user-images.githubusercontent.com/85043762/150619577-5e0898cb-db34-45d1-9fe8-dee6ade3bf8f.png)
+
 
 
 
