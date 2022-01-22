@@ -1,5 +1,35 @@
-Hola Bienvenido a Mi  Perfil 
-soy Licenciado en Sistemas Computacionales
-Programador Full Stack 
-Programó en los lenguajes: Python, Java, C#, C++, Visual Basic, javaScript
-He trabajado Con base de datos: Mysql,sqlite,PostgreSql, Oracle
+![image](https://user-images.githubusercontent.com/85043762/150617938-a09befa2-2224-4583-b71e-91d879dfcdde.png)
+
+
+LICENCIADO EN SISTEMAS COMPUTACIONALES, DESARROLLADOR WEB FULL STACK
+
+LENGUAJES DE PROGRAMACIÓN:
+PYTHON, JAVA, C++, VISUAL BASIC, C#.
+
+WEB: 
+HTML+CSS, JAVASCRIPT, JQUERY, XML, JSON.
+
+BASES DE DATOS: 
+MYSQL, ORACLE, SQLITE, POSTGRESQL
+
+CONTROL DE VERSIONES: 
+GIT
+
+FRAMEWORK:
+ DJANGO
+
+![image](https://user-images.githubusercontent.com/85043762/150619230-7586ae30-f9c7-4298-bc6f-cdc0e299ef30.png)
+
+
+TIPO DE PROYECTO: 
+APLICACIÓN DE ESCRITORIO.
+
+FUNCIÓN:   
+SISTEMA  PARA EL CONTROL DE TRAMITES E IMPRESIÓN DE CONSTANCIAS DE DIFERENTES EMPRESAS PARA LA COORDINACIÓN DE PROTECCIÓN CIVIL, EL CUALAGILIZÓ LOS TRAMITES CORRESPONDIENTES, CONTANDO CON UNA BASE DE DATOS DE MAS DE 500 EMPRESAS, AUTOMATIZANDO LA IMPRESIÓN DE RECIBOS DE PAGOS,  CONTROL DE VISITAS DE INSPECCIÓN  E MPRESION DE LA DOCUMENTACIÓN NECESARIA CON EL FUNDAMENTO LEGAL CORRESPONDIENTE.
+TECNOLOGÍAS: VBA EN EXCEL.
+
+![image](https://user-images.githubusercontent.com/85043762/150618491-fbe8ce20-4639-4255-8698-d07742cc6f2f.png)
+![image](https://user-images.githubusercontent.com/85043762/150618766-d34bde15-456e-4c0b-a85f-7062a534a02c.png)
+![image](https://user-images.githubusercontent.com/85043762/150618932-f7a72b96-d583-41c6-9106-b70530eba3d9.png)
+
+
